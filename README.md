@@ -1,4 +1,4 @@
-# PHYS200
+# PHYS200 - Basics of Scientific Computation
 
 This repository contains the projects that I've made as a part of the PHYS200-Basics of Scientific Computation class during 2022-2023 Spring semester.
 
