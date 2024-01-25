@@ -2,7 +2,7 @@
 
 This repository contains the projects that I've made as a part of the PHYS200-Basics of Scientific Computation class during 2022-2023 Spring semester.
 
-# DESCRIPTION OF PROJECTS
+# Description of Projects
 
 GuidingCenter: Animation of the guiding center motion for an electron in plasma.
 
